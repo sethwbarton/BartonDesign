@@ -1,0 +1,28 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+
+Body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("Images/Pencils.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Nav {
+  display: block;
+  float: left;
+  color: #e5b6bc;
+}
+
+#logo_pink {
+    padding-top: 500px;
+    padding-right: 100px;
+	float: right;
+}
